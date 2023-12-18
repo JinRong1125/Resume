@@ -1,5 +1,5 @@
 # 職務経歴書
-### 個人データ
+### プロフィール
  - 氏名：梁晉榮 Liang Jin Rong
  - 国籍：台湾 Taiwan
  - 言語：中国語、英語、日本語
@@ -7,6 +7,7 @@
 # 職務経歴
 ## 株式会社Gunosy　2019年9月 - 現在
 ### ニュースアプリ Gunosy, LUCRA の Android 開発・運用
+ - Gunosy https://play.google.com/store/apps/details?id=com.gunosy.android
 #### プロジェクト概要
  - チーム規模：10人
  - 役割: Android エンジニア
@@ -16,18 +17,18 @@
    - Android UI Layout を Component 化にして、SDK として他アプリの実装に使えるように、全 Product の実装工数を削減
    - 再生 SDK の ExoPlayer に Kotlin Coroutines の Multithreading 運用を加えて、Performance Tuning による動画再生のユーザー体験を向上
    - Server-Side, Marketing Team を含めて、アプリの仕様設計を担当、iOS の開発にも共有し、両 OS の実装工数を削減
-   - 詳細： https://gunosy.co.jp/ad
+   - 詳細：https://gunosy.co.jp/ad
  - ラジオ機能の実装
    - Kotlin Coroutines Flow の導入をリードし、Code MVI Architecture を新しく設計・運用、今後開発の見通しと効率を向上
    - Server-Side, Design Team と連携しながら、Animation を含めた複雑な UI 実装を行う
-   - 詳細： https://gunosy.co.jp/news/255
+   - 詳細：https://gunosy.co.jp/news/255
  - 通知の Push 実装
    - Android における Notification の仕様を調査し、Marketing Team に通知の施策運用に対して、参考出来る情報を提供
    - Android 13 通知権限の規制に伴い、許諾フローの要件定義から実装まで担当し、Push における許諾率と開封率を向上
  - 開発環境・継続的改善
    - RxJava の Kotlin Coroutines 移行に伴い、RxJava の不具合を大幅に削減
    - 広告 SDK の 大規模な Refactoring に当たって、Facade Pattern の概念を導入することにより、複数アプリでの開発効率を向上
-   - CI/CD に 自動化 Release, Unit Test を導入、既存機能の Code 品質を維持しながら、Deploy 効率の強化
+   - CI/CD に Lint Check, Automatic Release, Unit Test を導入、既存機能の Code 品質を維持しながら、Deploy 効率の強化
    - MagicPod 自動化テストの運用に当たって、QA Team と連携しながら、CI/CD の Shell Scripts を完備
    - App Start の起動速度を改善し、Firebase Performance Monitoring を通じて起動時間を５０%短縮し、ユーザー体験を向上
  - 知見共有
@@ -132,3 +133,14 @@
 ### Receipt レシピ探し Android アプリ
  - Google GMS Vision を利用した、食材名の画像認識による、レシピ探しのアプリ
  - https://github.com/JinRong1125/Receipt
+## 人物像
+### 強み
+ - 課題の原因特定・解決
+ - 技術選定・方針決め
+ - 資料から情報にするドキュメント化
+### 弱み
+ - 人のマネジメント
+ - プロジェクトのリーダシップ
+ - 施策の計画・提案
+### 改善したいこと
+ - 
