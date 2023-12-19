@@ -13,28 +13,32 @@
  - 役割: Android エンジニア
 ### 主な業務と成果
 #### 動画広告の実装
-
-   - Android UI Layout を Component 化にして、SDK として他アプリの実装に使えるように、全 Product の実装工数を削減
+   - Android UI Layout を Component 化にして、SDK として他アプリの実装に使えるように、全 Product 実装の工数を削減
    - 再生 SDK の ExoPlayer に Kotlin Coroutines の Multithreading 運用を加えて、Performance Tuning による動画再生のユーザー体験を向上
-   - Server-Side, Marketing Team を含めて、アプリの仕様設計を担当、iOS の開発にも共有し、両 OS の実装工数を削減
+   - Server-Side, Marketing Team を含めて、アプリの仕様設計を担当し、iOSを含めた実装の工数を削減
    - 詳細：https://gunosy.co.jp/ad
 #### ラジオ機能の実装
-   - Kotlin Coroutines Flow の導入をリードし、Code MVI Architecture を新しく設計・運用、今後開発の見通しと効率を向上
+   - Kotlin Coroutines Flow の初導入をリードし、Code Architecture: MVI を新しく設計・運用、今後開発の見通しと効率を向上
    - Server-Side, Design Team と連携しながら、Animation を含めた複雑な UI 実装を行う
    - 詳細：https://gunosy.co.jp/news/255
 #### 通知の Push 改善
    - Android における Notification の仕様を調査し、Marketing Team に通知の施策運用に対して、参考出来る情報を提供
-   - Android 13 通知権限の規制に伴い、許諾フローの要件定義から実装まで担当し、Push における許諾率と開封率を向上
-#### 開発環境・継続的改善
-   - RxJava の Kotlin Coroutines 移行に伴い、RxJava の不具合を大幅に削減
-   - 広告 SDK の 大規模な Refactoring に当たって、Facade Pattern の概念を導入することにより、複数アプリでの開発効率を向上
-   - CI/CD に Lint Check, Automatic Release, Unit Test を導入、既存機能の Code 品質を維持しながら、Deploy 効率の強化
-   - MagicPod 自動化テストの運用に当たって、QA Team と連携しながら、CI/CD の Shell Scripts を完備
+   - Android 13 通知権限の対応に伴い、他チームを巻き込んで、許諾フローの要件定義から実装まで自ら担当し、Push における許諾率と開封率を向上
+#### チュートリアルの実装
+   - Android ユーザーの習性を調査し、Marketing, Analytics Team と議論しながら、仕様の要件定義を行う
+   - 初回起動のユーザーに対する施策の結果として、新規ユーザーの獲得数を向上
+#### 開発環境の改善
+   - CI/CD に Lint Check, Automatic Release, Unit Test を導入、新規・既存機能の安定性を維持しながら、アプリの　Deploy 品質を強化
+   - MagicPod 自動化テストの運用にて、QA Team と連携しながら、CI/CD の実行 Pipeline, Scripts を完備
+   - CircleCI　を　Gihub Actions に移行することに当たり、Git Flow　の概念を用いて Pipeline を再設計、Deploy 効率を向上
+#### 継続的改善
+   - RxJava の Kotlin Coroutines 移行に伴い、RxJava の不具合解消と Crash の解決で、アプリのクラッシュ率を99.9%達成
+   - 広告 SDK の 全体 Refactoring にて、Facade Pattern の概念を導入することにより、複数アプリでの開発効率を向上
    - App Start の起動速度を改善し、Firebase Performance Monitoring を通じて起動時間を５０%短縮し、ユーザー体験を向上
 #### 知見共有
-   - Android 技術勉強会の社内発表
+   - 技術勉強会の社内発表
    - 新規施策の技術選定・実装設計
-   - Android 技術ブログの執筆
+   - 技術ブログの執筆
      - CircleCI + Android UI Test スクリーンショットの確認仕組み https://tech.gunosy.io/draft/entry/9HzgjQG21FB_Js3xtGBmL1R8Tks
 
      - Android + Kotlin Coroutines の実用的な開発Tips https://tech.gunosy.io/entry/android_coroutine_tips
@@ -70,7 +74,7 @@
    - Android JNI を用いた Microsoft PlayReady DRM の仕組み対応
    - User Account における複数 Device の認証仕組みを、開発 Team 全体で取り組む
 #### Media Player: TV アプリ開発
-   - DLNA Guide Line に沿った Media Contents 共有仕組み UPnP の実装
+   - DLNA Guide Line に沿った Media Contents の共有仕組み UPnP の実装
    - Android Storage Access Framework を用いた Linux Base FAT32/NTFS での Contents File 取り扱いによる対応
    - https://github.com/JinRong1125/MediaStore
 #### Live Streaming: TV, Phone アプリ開発
@@ -113,7 +117,7 @@
 ### Services
 #### AWS
  - 実務経験 2 年
- - 主に RESTful API のアプリ開発に関わる運用
+ - 主に RESTful API にて、Android アプリ開発に関わる運用
 #### Firebase
  - 実務経験 4 年
  - 主に Crashlytics, Analytics による Monitor の運用
@@ -124,7 +128,7 @@
 ### 強み
  - 課題の原因特定・解決
  - 技術選定・方針決め
- - 情報の収集・応用
+ - 情報の収集・活用
 ### 弱み
  - 人のマネジメント
  - プロジェクトのリーダシップ
