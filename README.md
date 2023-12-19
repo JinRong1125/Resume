@@ -9,8 +9,8 @@
 ### ニュースアプリ Gunosy, LUCRA の Android 開発・運用
  - Gunosy https://play.google.com/store/apps/details?id=com.gunosy.android
 ### プロジェクト概要
- - チーム規模：10人
- - 役割: Android エンジニア
+ - チーム規模：10 人
+ - 役割：Android エンジニア
 ### 主な業務と成果
 #### 動画広告の実装
    - Android UI Layout を Component 化にして、SDK として他アプリの実装に使えるように、全 Product 実装の工数を削減
@@ -47,8 +47,8 @@
 ## INNORZ CO., Ltd. (Taiwan)　2018年9月 - 2019年7月
 ### Online Casino アプリの React Native 開発
 ### プロジェクト概要
- - チーム規模：10人
- - 役割: React + Android エンジニア
+ - チーム規模：10 人
+ - 役割：React + Android エンジニア
 ### 主な業務と成果
 #### React Native 開発
 
@@ -63,8 +63,8 @@
 ## Tatung Technology Inc. (Taiwan)　2016年10月 - 2018年5月
 ### Multimedia アプリ の Android TV, Tablet, Phone 開発
 ### プロジェクト概要
- - チーム規模：8人
- - 役割: Android エンジニア
+ - チーム規模：8 人
+ - 役割：Android エンジニア
 ### 主な業務と成果
 #### VOD Service: TV, Tablet, Phone アプリ開発
 
