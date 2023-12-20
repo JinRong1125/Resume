@@ -76,6 +76,7 @@ Android エンジニアとして約 ６ 年の開発経験を持ち、主にマ�
    - Android JNI を用いた Microsoft PlayReady DRM の仕組み対応
    - User Account における複数 Device の認証仕組みを、開発 Team 全体で取り組む
 #### Media Player: TV アプリ開発
+   - MediaBrowserService を用いて、プレイヤーの機能を実装
    - DLNA Guide Line に沿った Media Contents の共有仕組み UPnP の実装
    - Android Storage Access Framework を用いた Linux Base FAT32/NTFS での Contents File 取り扱いによる対応
    - https://github.com/JinRong1125/MediaStore
