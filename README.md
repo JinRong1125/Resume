@@ -41,7 +41,7 @@ Android エンジニアとして約 ６ 年の開発経験を持ち、主にマ�
    - 技術勉強会の社内発表
    - 新規施策の技術選定・実装設計
    - 技術ブログの執筆
-     - CircleCI + Android UI Test スクリーンショットの確認仕組み https://tech.gunosy.io
+     - CircleCI + Android UI Test スクリーンショットの確認仕組み https://tech.gunosy.io/entry/android_test_screenshot
 
      - Android + Kotlin Coroutines の実用的な開発Tips https://tech.gunosy.io/entry/android_coroutine_tips
      - Gradle + Kotlin + CircleCI による Android Google Play デプロイの自動化 https://tech.gunosy.io/entry/android_google_play_deploy
