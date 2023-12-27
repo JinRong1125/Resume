@@ -30,7 +30,7 @@ Android エンジニアとして約 ６ 年の開発経験を持ち、主にマ�
    - Android ユーザーの習性を調査し、Marketing, Analytics Team と議論しながら、仕様の要件定義を行う
    - 初回起動のユーザーに対する施策の結果として、新規ユーザーの獲得数を向上
 #### 開発環境の改善
-   - CI/CD に Lint Check, Automatic Release, Unit Test を導入、新規・既存機能の安定性を維持しながら、アプリの Deploy 品質を強化
+   - CI/CD に Lint Check, Automatic Release, E2E Unit Test を導入、新規・既存機能の安定性を維持しながら、アプリの Deploy 品質を強化
    - MagicPod 自動化テストの運用にて、QA Team と連携しながら、CI/CD の実行 Pipeline, Scripts を完備
    - CircleCI を Gihub Actions に移行することに当たり、Git Flow の概念を用いて Pipeline を再設計、Deploy 効率を向上
 #### 継続的改善
