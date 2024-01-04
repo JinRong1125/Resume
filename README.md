@@ -34,7 +34,7 @@ Android エンジニアとして約 ６ 年の開発経験を持ち、主にマ�
    - MagicPod 自動化テストの運用にて、QA Team と連携しながら、CI/CD の実行 Pipeline, Scripts を完備
    - CircleCI を Gihub Actions に移行することに当たり、Git Flow の概念を用いて Pipeline を再設計、Deploy 効率を向上
 #### 継続的改善
-   - RxJava の Kotlin Coroutines 移行に伴い、RxJava の不具合解消と Crash の解決で、アプリのクラッシュ率を99.9%達成
+   - RxJava の Kotlin Coroutines 移行に伴い、RxJava の不具合解消と Crash の解決で、アプリのクラッシュフリー率を99.9%達成
    - 広告 SDK の 全体 Refactoring にて、Facade Pattern の概念を導入することにより、複数アプリでの開発効率を向上
    - App Start の起動速度を改善し、Firebase Performance Monitoring を通じて起動時間を５０%短縮し、ユーザー体験を向上
 #### 知見共有
