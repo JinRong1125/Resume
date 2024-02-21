@@ -5,6 +5,8 @@
  - 言語：中国語、英語、日本語
  - Github：[@JinRong1125](https://github.com/JinRong1125)
  - 本文リンク： https://github.com/JinRong1125/Resume
+ - 画像付きの作品履歴書：
+https://www.cakeresume.com/jinrong
 ### 概要
 Android エンジニアとして約 ６ 年の開発経験を持ち、主にマルチメディア系のアプリ開発に携わってきました。現職ではユーザー数百万人の Gunosy Android アプリ開発を担当しています。今後も Android 技術を通じて技術スタックを積み上げ、幅広いサービスの開発に挑み続けたいと思っています。
 # 職務経歴
