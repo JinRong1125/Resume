@@ -17,6 +17,9 @@ Android エンジニアとして約 ６ 年の開発経験を持ち、主にマ�
  - チーム規模：10 人
  - 役割：Android エンジニア
 ### 主な業務と成果
+#### 雨雲レーダーの実装
+   - Google Map を用いた現在地域にある雨雲の予想情報を提示する機能
+   - Design Team と連携して、UI/UX の設計からリリースまで携わる
 #### 動画広告の実装
    - Android UI Layout を Component 化にして、SDK として他アプリの実装に使えるように、全 Product 実装の工数を削減
    - 再生 SDK の ExoPlayer に Kotlin Coroutines の Multithreading 運用を加えて、Performance Tuning による動画再生のユーザー体験を向上
