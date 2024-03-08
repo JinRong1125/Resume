@@ -74,24 +74,24 @@ Android エンジニアとして約 7 年の開発経験を持ち、主にマル
  - チーム規模：8 人
  - 役割：Android エンジニア
 ### 主な業務と成果
-#### VOD Service: TV, Tablet, Phone アプリ開発
+#### VOD Service 動画配信サービス: TV, Tablet, Phone アプリ開発
 
    - Linux Base, Android AOSP 版での開発を行う
    - Android TV Leanback を用いた UI/UX の実装
    - SQLite を用いた番組表 Data の取り扱い
    - Android JNI を用いた Microsoft PlayReady DRM の仕組み対応
    - User Account における複数 Device の認証仕組みを、開発 Team 全体で取り組む
-#### Media Player: TV アプリ開発
+#### Media Player メディアプレイヤー: TV アプリ開発
    - MediaBrowserService を用いて、プレイヤーの機能を実装
    - DLNA Guide Line に沿った Media Contents の共有仕組み UPnP の実装
    - Android Storage Access Framework を用いた Linux Base FAT32/NTFS での Contents File 取り扱いによる対応
    - https://github.com/JinRong1125/MediaStore
-#### Live Streaming: TV, Phone アプリ開発
+#### Live Streaming ライブ配信サービス: TV, Phone アプリ開発
    - RTMP 経由の HLS Stream による、リアルタイム配信の仕組み実装
    - Socket I.O を用いたチャット機能の実装
    - Android Material Design を用いて、アプリの Prototype を Design Team と連携しながら、UI/UX の設計を行う
    - https://github.com/JinRong1125/LiveMobile
-#### Screen Mirroring: Phone アプリ開発
+#### Screen Mirroring スクリーンキャスト: Phone アプリ開発
    - UPnP 規格に基づいた、H.264 Stream のスマホ画面を、リアルタイムで共有する機能の実装
    - Android Screen Capture + Media Codec による Tuning で、配信の遅延を削減
    - Youtube Data API の利用による動画の共有
