@@ -60,7 +60,7 @@ Android エンジニアとして約 7 年の開発経験を持ち、主にマル
 ### 主な業務と成果
 #### React Native 開発
 
-   - Redex Flow に適用する Components の実装
+   - Redux Flow に適用する Components の実装
    - Animation Components の実装
 #### Android Native 側の開発
    - Web Socket + Kotlin Coroutines の統合運用による Architecture の設計
