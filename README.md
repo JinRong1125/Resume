@@ -69,7 +69,7 @@ Android エンジニアとして約 7 年の開発経験を持ち、主にマル
    - Agile 開発手法の運用
    - Appium を用いた自動化テストを、QA Team と連携しながら運用を行う
 ## Tatung Technology Inc. (Taiwan)　2016年10月 - 2018年5月
-### Android 搭載のセットトップボックス及び Android スマホで、Multimedia アプリの開発・運用
+### Android TV 搭載のセットトップボックス及び Android スマホで、Multimedia アプリの開発・運用
 ### プロジェクト概要
  - チーム規模：8 人
  - 役割：Android エンジニア
