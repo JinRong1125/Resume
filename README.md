@@ -10,6 +10,9 @@ https://www.cakeresume.com/jinrong
 ### 概要
 Android エンジニアとして約 7 年の開発経験を持ち、主にマルチメディア系のアプリ開発に携わってきました。現職ではユーザー数百万人の Gunosy Android アプリ開発を担当しています。今後も Android 技術を通じて技術スタックを積み上げ、幅広いサービスの開発に挑み続けたいと思っています。
 # 職務経歴
+## KINTOテクノロジーズ株式会社　2024年7月 - 
+### KINTO Unlimited の Android 開発
+ - https://play.google.com/store/apps/details?id=com.kinto.unlimited
 ## 株式会社Gunosy　2019年9月 - 2024年6月
 ### ニュースアプリ Gunosy, LUCRA の Android 開発・運用
  - Gunosy https://play.google.com/store/apps/details?id=com.gunosy.android
