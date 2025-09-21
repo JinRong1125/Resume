@@ -8,14 +8,22 @@
  - 画像付きの作品履歴書：
 https://www.cakeresume.com/jinrong
 ### 概要
-Android エンジニアとして約 7 年の開発経験を持ち、主にマルチメディア系のアプリ開発に携わってきました。今後も Android 技術を通じて技術スタックを積み上げ、幅広いサービスの開発に挑み続けたいと思っています。
+Android エンジニアとして約 8 年の開発経験を持ち、主にマルチメディア系のアプリ開発に携わってきました。今後も Android 技術を通じて技術スタックを積み上げ、幅広いサービスの開発に挑み続けたいと思っています。
 # 職務経歴
 ## KINTOテクノロジーズ株式会社　2024年7月 - 
 ### KINTO Unlimited の Android 開発
  - https://play.google.com/store/apps/details?id=com.kinto.unlimited
+### プロジェクト概要
+ - チーム規模：15 人
+ - 役割：Android エンジニア
+### 主な業務と成果
+#### これなにガイドの実装
+   - スマホのカメラを車内の各種スイッチにかざして、当該機能の使い方をテキストと動画で案内する機能
+   - Tensorflow の機械学習を通じで、スイッチの画像認識用モデルを構築と運用
+   - Mediapipe フレームワークを利用し、Instant Motion Tracking のパイプラインを基にアーキテクチャー再構築し、AR体験を提供する
 ## 株式会社Gunosy　2019年9月 - 2024年6月
-### ニュースアプリ Gunosy, LUCRA の Android 開発・運用
- - Gunosy https://play.google.com/store/apps/details?id=com.gunosy.android
+### ニュースアプリ グノシー、LUCRA の Android 開発・運用
+ - グノシー https://play.google.com/store/apps/details?id=com.gunosy.android
 ### プロジェクト概要
  - チーム規模：10 人
  - 役割：Android エンジニア
@@ -78,7 +86,6 @@ Android エンジニアとして約 7 年の開発経験を持ち、主にマル
  - 役割：Android エンジニア
 ### 主な業務と成果
 #### VOD Service 動画配信サービス: TV, Tablet, Phone アプリ開発
-
    - Linux Base, Android AOSP 版での開発を行う
    - Android TV Leanback を用いた UI/UX の実装
    - SQLite を用いた番組表 Data の取り扱い
@@ -102,13 +109,13 @@ Android エンジニアとして約 7 年の開発経験を持ち、主にマル
 ## Skills
 ### Programming
 #### Android
- - 実務経験 7 年
+ - 実務経験 8 年
  - Android Framework, NDK に携わった経験は 1 年
 #### Kotlin
- - 実務経験 5 年
+ - 実務経験 6 年
  - 主に Android 開発
 #### Java
- - 実務経験 3 年
+ - 実務経験 5 年
  - 主に Android 開発
 #### React Native
  - 実務経験 1 年
@@ -116,16 +123,19 @@ Android エンジニアとして約 7 年の開発経験を持ち、主にマル
 #### JavaScript, TypeScript
  - 実務経験 1 年
  - React Native による開発
+#### Python
+ - 実務経験 半年
+ - Tensorflow MLの運用, LLM のモデル構築
+#### C++
+ - 実務経験 半年
+ - Mediapipe ライブラリーの構築
 #### MySQL
  - 実務経験 1 年
  - 主に自社製品の VOD Service 開発に関わる運用
 #### Flutter
  - 実務経験なし
  - ゲームアプリ開発の勉強
-#### Python
- - 実務経験なし
- - TensorFlow 利用の勉強
- - 音楽アプリ RESTful API 開発の勉強
+
 ### Services
 #### AWS
  - 実務経験 2 年
