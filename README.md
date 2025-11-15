@@ -107,35 +107,41 @@ Android エンジニアとして約 8 年の開発経験を持ち、主にマル
    - Youtube Data API の利用による動画の共有
    - https://github.com/JinRong1125/DLNACaster
 ## Skills
-### Programming
+### Framework
 #### Android
  - 実務経験 8 年
- - Android Framework, NDK に携わった経験は 1 年
+ - AOSP, NDK の経験は 1 年
+#### React Native
+ - 実務経験 1 年
+ - 主にスマホアプリの開発
+#### Flutter
+ - 実務経験なし
+ - ゲームアプリ開発の勉強
+#### Tensorflow
+ - 実務経験 1 年
+ - 主に物体認識の応用
+#### OpenCV
+ - 実務経験 1 年
+ - 拡張現実における特徴点の応用
+### Programming Language 
 #### Kotlin
  - 実務経験 6 年
  - 主に Android 開発
 #### Java
  - 実務経験 5 年
  - 主に Android 開発
-#### React Native
- - 実務経験 1 年
- - 主に Smart Phone 開発
 #### JavaScript, TypeScript
  - 実務経験 1 年
- - React Native による開発
+ - 主に React Native 開発
 #### Python
  - 実務経験 半年
- - Tensorflow MLの運用, LLM のモデル構築
+ - Tensorflow, OpenCV, LLM の応用
 #### C++
  - 実務経験 半年
  - Mediapipe ライブラリーの構築
 #### MySQL
  - 実務経験 1 年
- - 主に自社製品の VOD Service 開発に関わる運用
-#### Flutter
- - 実務経験なし
- - ゲームアプリ開発の勉強
-
+ - 主に VOD Service 開発に関わる運用
 ### Services
 #### AWS
  - 実務経験 2 年
