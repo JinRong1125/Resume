@@ -21,6 +21,7 @@ Android エンジニアとして約 8 年の開発経験を持ち、主にマル
    - スマホのカメラを車内の各種スイッチにかざして、当該機能の使い方をテキストと動画で案内する機能
    - Tensorflow の機械学習を通じで、スイッチの画像認識用モデルを構築と運用
    - Mediapipe フレームワークを利用し、Instant Motion Tracking であるパイプラインを基にアーキテクチャーを再構築、ユーザーにAR体験を提供する
+   - 詳細：https://corp.kinto-jp.com/news/detail/?id=press_20240626
 ## 株式会社Gunosy　2019年9月 - 2024年6月
 ### ニュースアプリ グノシー、LUCRA の Android 開発・運用
  - グノシー https://play.google.com/store/apps/details?id=com.gunosy.android
