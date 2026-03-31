@@ -22,6 +22,7 @@ Android エンジニアとして約 8 年の開発経験を持ち、主にマル
    - Tensorflow の機械学習を通じで、スイッチの画像認識用モデルを構築と運用
    - Mediapipe フレームワークを利用し、OpenCV 画像処理を用いてユーザーにAR体験を提供する
    - 詳細：https://corp.kinto-jp.com/news/detail/?id=press_20240626
+   - 技術ブログ：https://blog.kinto-technologies.com/posts/2026-03-27-korenani-guide-mediapipe-ar/
 #### 新規及び既存機能の改善
    - 既存機能にて XML を使った複雑な UI/UX 実装（スクロールなど）を Jetpack Compose に移行
    - Material 3 を導入する事によって、実装デザインを定義する Design System を再設計
