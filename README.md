@@ -156,10 +156,10 @@ Android エンジニアとして、約 8 年モバイルアプリの開発経験
  - 主に React Native 開発
  - LangGraph の開発
 #### Python
- - 実務経験 半年
+ - 実務経験 1 年
  - Tensorflow, OpenCV, LLM の応用
 #### C++
- - 実務経験 半年
+ - 実務経験 1 年
  - Mediapipe ライブラリーの構築
 #### MySQL
  - 実務経験 1 年
