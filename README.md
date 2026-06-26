@@ -27,6 +27,7 @@ Android エンジニアとして、約 8 年モバイルアプリの開発経験
  - 非同期レンダリングや状態管理を含む、一般ユーザー向けに安定動作する処理フローを実装
 ### KINTO Unlimited の Android 開発
  - https://play.google.com/store/apps/details?id=com.kinto.unlimited
+ - 車のサブスクリプションのサービスアプリ
 ### プロジェクト概要
  - チーム規模：15 人
  - 役割：Android エンジニア
