@@ -44,17 +44,19 @@ Android エンジニアとして約 8 年のモバイルアプリ開発経験を
    - スマホのカメラを車内の各種スイッチにかざすと、当該機能の使い方をテキストと動画で案内する機能
    - TensorFlow の機械学習を用いて、スイッチの画像認識モデルを構築・運用
    - MediaPipe フレームワークと OpenCV による画像処理を活用し、ユーザーに AR 体験を提供
+   - Product・Security・開発チームと連携しながら、機能の構築と導入を実施
    - 詳細：https://corp.kinto-jp.com/news/detail/?id=press_20240626
    - 技術ブログ：https://blog.kinto-technologies.com/posts/2026-03-27-korenani-guide-mediapipe-ar/
 
 ##### 新規・既存機能の改善
    - 既存機能における XML を使った複雑な UI/UX 実装（スクロールなど）を Jetpack Compose へ移行
-   - Material 3 を導入し、実装デザインを定義する Design System を再設計
+   - Material 3 を導入し、開発チームと連携しながら、Android アプリの実装デザインを定義する Design System を再設計
 
 ## 株式会社Gunosy　2019年9月 - 2024年6月
 
-### ニュースアプリ「グノシー」「LUCRA」の Android 開発・運用
- - グノシー：https://play.google.com/store/apps/details?id=com.gunosy.android
+### 「グノシー」「LUCRA」の Android 開発・運用
+ - ニュースアプリ　グノシー：https://play.google.com/store/apps/details?id=com.gunosy.android
+ - 女性向け情報アプリ　LUCRA
 
 #### プロジェクト概要
  - チーム規模：10 人
