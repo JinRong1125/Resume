@@ -60,7 +60,9 @@ Android エンジニアとして約 8 年のモバイルアプリ開発経験を
    - 目的：サービスに特化したAIとの対話を通じて、ユーザーがサービス関連の質問への回答を得られるAIチャット機能の実証
    - Vertex AI・Azure AI の API を用いたチャット機能を Android アプリに構築・検証し、Server Side チームと連携して API 設計を行う
    - ChatGPT・Gemini のモバイルアプリをベンチマークとして、Marketing・Design・開発チームと UI/UX を設計・議論し、要件をすり合わせ
-   - LLaMA・MLC LLM を用いたオンデバイス AI を構築し、動作・実用性を検証
+   - LLaMA Factory・MLC LLM を用いたオンデバイス AI を構築し、動作・実用性を検証
+   - LLaMA Factory: https://github.com/hiyouga/LlamaFactory
+   - MLC LLM: https://github.com/mlc-ai/mlc-llm
 
 ##### これなにガイドの実装
    - 機能：スマホのカメラを車内の各種スイッチにかざすと、当該機能の使い方をテキストと動画で案内する機能
