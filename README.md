@@ -29,6 +29,7 @@ Android エンジニアとして約 8 年のモバイルアプリ開発経験を
  - HyperFrames を基盤に、LangGraph によるオーケストレーションでユーザー向け動画生成アプリを構築
  - 対話型 LLM を用いて、ユーザー入力から動画構成を生成する一連のパイプラインを設計
  - 非同期レンダリングや状態管理を含む、一般ユーザー向けに安定動作する処理フローを実装
+ - HyperFrames: https://github.com/heygen-com/hyperframes
 
 ### AI音楽生成 POC Flutter アプリの開発
 #### プロジェクト概要
