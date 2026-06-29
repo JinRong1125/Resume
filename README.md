@@ -198,11 +198,11 @@ Android エンジニアとして約 8 年のモバイルアプリ開発経験を
 
 #### Python
  - 実務経験 1 年
- - TensorFlow・OpenCV・LLM への応用
+ - TensorFlow・LLM への応用
 
 #### C++
  - 実務経験 1 年
- - MediaPipe ライブラリの構築
+ - MediaPipe・OpenCV の構築・導入
 
 #### MySQL
  - 実務経験 1 年
