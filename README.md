@@ -59,7 +59,7 @@ Android エンジニアとして約 9 年のモバイルアプリ開発経験を
 #### 主な業務と成果
 ##### AIチャット機能の実装検証
    - 目的：サービスに特化したAIとの対話を通じて、ユーザーがサービス関連の質問への回答を得られるAIチャット機能の実証
-   - Vertex AI・Azure AI の API を用いたチャット機能を Android アプリに構築・検証し、Server Side チームと連携して API 設計
+   - Vertex AI・Azure AI の API を用いたチャット機能を Android アプリに構築・検証し、Server Side チームと連携して API を設計
    - ChatGPT・Gemini のモバイルアプリをベンチマークに、Marketing・Design・開発チームと UI/UX を設計・議論し、要件をすり合わせ
    - LLaMA Factory・MLC LLM を用いたオンデバイス AI を構築し、Android アプリ上で動作と実用性を検証
    - LLaMA Factory: https://github.com/hiyouga/LlamaFactory
