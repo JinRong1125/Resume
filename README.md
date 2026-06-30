@@ -40,13 +40,13 @@ Android エンジニアとして約 9 年のモバイルアプリ開発経験を
 
 #### 主な業務と成果
 ##### 音楽生成AIの技術検証と価値検討
- - 各種音楽生成AIサービスについて、曲調の再現性と出力の安定性を比較検証
+ - 各種音楽生成AI サービスについて、曲調の再現性と出力の安定性を比較検証
  - 「感動と思い出」のコンセプトに基づき、AIで提供できる体験価値を検討・提案
  - 検証結果をもとに、サービス化に向けた技術的な実現性と制約を整理
 
 ##### Flutterアプリの機能検証
- - 音楽生成AIのAPIを組み込み、ユーザー入力から楽曲を生成する処理フローを実装
- - 楽曲再生などの基本機能を備えた検証用アプリをFlutterで構築
+ - 音楽生成AI の API を組み込み、ユーザー入力から楽曲を生成する処理フローを実装
+ - 楽曲再生などの基本機能を備えた検証用アプリを Flutter で構築
 
 ### KINTO Unlimited の Android 開発・運用
  - https://play.google.com/store/apps/details?id=com.kinto.unlimited
@@ -59,9 +59,9 @@ Android エンジニアとして約 9 年のモバイルアプリ開発経験を
 #### 主な業務と成果
 ##### AIチャット機能の実装検証
    - 目的：サービスに特化したAIとの対話を通じて、ユーザーがサービス関連の質問への回答を得られるAIチャット機能の実証
-   - Vertex AI・Azure AI の API を用いたチャット機能を Android アプリに構築・検証し、Server Side チームと連携して API 設計を行う
-   - ChatGPT・Gemini のモバイルアプリをベンチマークとして、Marketing・Design・開発チームと UI/UX を設計・議論し、要件をすり合わせ
-   - LLaMA Factory・MLC LLM を用いたオンデバイス AI を構築し、動作・実用性を検証
+   - Vertex AI・Azure AI の API を用いたチャット機能を Android アプリに構築・検証し、Server Side チームと連携して API 設計
+   - ChatGPT・Gemini のモバイルアプリをベンチマークに、Marketing・Design・開発チームと UI/UX を設計・議論し、要件をすり合わせ
+   - LLaMA Factory・MLC LLM を用いたオンデバイス AI を構築し、Android アプリ上で動作と実用性を検証
    - LLaMA Factory: https://github.com/hiyouga/LlamaFactory
    - MLC LLM: https://github.com/mlc-ai/mlc-llm
 
